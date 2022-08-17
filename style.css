@@ -15,9 +15,9 @@
 
 .main {
   background-color: var(--dark-blue);
+  margin: 30px auto;
   width: 450px;
   height: 450px;
-  margin: 0px auto;
   padding: 55px 55px;
   border-radius: 20px;
   border: var(--medium-light-green) solid 10px;
